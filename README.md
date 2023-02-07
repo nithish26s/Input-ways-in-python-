@@ -1,0 +1,1 @@
+# Input-ways-in-python-
